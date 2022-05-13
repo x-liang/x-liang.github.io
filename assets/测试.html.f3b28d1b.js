@@ -1,0 +1,1 @@
+const a={key:"v-5f292e7a",path:"/Java/%E6%B5%8B%E8%AF%95.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Java \u7B14\u8BB0",slug:"java-\u7B14\u8BB0",children:[]}],git:{},filePathRelative:"Java/\u6D4B\u8BD5.md"};export{a as data};
