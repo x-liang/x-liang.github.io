@@ -1,0 +1,1 @@
+const a={key:"v-fa0b746a",path:"/java/java-jvm/JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652462343e3,contributors:[{name:"xuliang",email:"895252461@qq.com",commits:1}]},filePathRelative:"java/java-jvm/JVM\u5185\u5B58\u7ED3\u6784.md"};export{a as data};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as _,b as o}from"./app.cc4f7324.js";const s={},c={id:"jvm-\u6982\u89C8",tabindex:"-1"},r=_("a",{class:"header-anchor",href:"#jvm-\u6982\u89C8","aria-hidden":"true"},"#",-1),n=o(" JVM \u6982\u89C8"),d=[r,n];function h(i,f){return t(),a("h1",c,d)}var m=e(s,[["render",h],["__file","JVM\u6982\u89C8.html.vue"]]);export{m as default};

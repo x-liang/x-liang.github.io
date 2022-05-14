@@ -1,0 +1,1 @@
+const a={key:"v-1d80f8de",path:"/java/java-concurrent/java%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80.html",title:"Java\u5E76\u53D1\u57FA\u7840",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652462343e3,contributors:[{name:"xuliang",email:"895252461@qq.com",commits:1}]},filePathRelative:"java/java-concurrent/java\u5E76\u53D1\u57FA\u7840.md"};export{a as data};
