@@ -1,0 +1,1 @@
+const e={key:"v-f3c5bf2e",path:"/spring-cloud/spring-cloud-overview.html",title:"Spring Cloud \u6982\u89C8",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652769979e3,contributors:[{name:"xuliang",email:"895252461@qq.com",commits:1}]},filePathRelative:"spring-cloud/spring-cloud-overview.md"};export{e as data};

@@ -1,0 +1,1 @@
+const a={key:"v-758f71ad",path:"/spring-cloud/spring-cloud-alibaba-nacos.html",title:"Spring Cloud Alibaba Nacos",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652769979e3,contributors:[{name:"xuliang",email:"895252461@qq.com",commits:1}]},filePathRelative:"spring-cloud/spring-cloud-alibaba-nacos.md"};export{a as data};
