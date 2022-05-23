@@ -1,1 +1,0 @@
-const e={key:"v-1023beed",path:"/spring-cloud/spring-cloud-alibaba-sentinel.html",title:"Spring Cloud Alibaba Sentinel",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652769979e3,contributors:[{name:"xuliang",email:"895252461@qq.com",commits:1}]},filePathRelative:"spring-cloud/spring-cloud-alibaba-sentinel.md"};export{e as data};
