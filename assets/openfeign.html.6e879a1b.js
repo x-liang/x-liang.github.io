@@ -1,0 +1,1 @@
+const e={key:"v-3989af71",path:"/spring-cloud/spring-cloud-openfeign/openfeign.html",title:"Spring Cloud OpenFeign \u6E90\u7801\u89E3\u6790",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"spring-cloud/spring-cloud-openfeign/openfeign.md"};export{e as data};
