@@ -1,1 +1,0 @@
-const t={key:"v-24305b7e",path:"/spring-cloud/spring-cloud-ribbon/ribbon.html",title:"Spring Cloud Ribbon \u6E90\u7801\u89E3\u6790",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"spring-cloud/spring-cloud-ribbon/ribbon.md"};export{t as data};
