@@ -1,1 +1,0 @@
-const a={key:"v-43c7fd75",path:"/database/mysql/mysql-base.html",title:"MySQL \u57FA\u7840\u7BC7",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652837256e3,contributors:[{name:"xuliang",email:"895252461@qq.com",commits:1}]},filePathRelative:"database/mysql/mysql-base.md"};export{a as data};

@@ -1,1 +1,0 @@
-const e={key:"v-3945f5d5",path:"/middleware/kafka-overview.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652555076e3,contributors:[{name:"xuliang",email:"895252461@qq.com",commits:1}]},filePathRelative:"middleware/kafka-overview.md"};export{e as data};

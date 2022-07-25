@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-51ad7541","path":"/quality/design-mode/design-chain.html","title":"\u8D23\u4EFB\u94FE\u6A21\u5F0F","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1653582123000,"contributors":[{"name":"xuliang","email":"895252461@qq.com","commits":1}]},"filePathRelative":"quality/design-mode/design-chain.md"}');export{e as data};
